@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RupeshGupta12
+- 👋 Hi, I’m @RupeshGupta
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Advance Excel and Macros
 - 💞️ I’m looking to collaborate on ...
